@@ -8,7 +8,7 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | Artigo | Autor(es) | Link para a Resenha |
 | :--- | :--- | :--- |
 | **Microservices** | Martin Fowler & James Lewis | [Ver Resenha](./resenhas/Artigo%201-Microsservices.pdf) |
-| *Artigo 02* | *Autor* | [Ver Resenha](./resenhas/artigo-02.md) |
+| **Engenharia de Software Moderna (Cap. 7)** | Marco Tulio Valente | [📄 Ver Resenha](./resenhas/Artigo%202.pdf) |
 | *Artigo 03* | *Autor* | [Ver Resenha](./resenhas/artigo-03.md) |
 
 ---
