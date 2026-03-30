@@ -11,4 +11,5 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | **Engenharia de Software Moderna (Cap. 7)** | Marco Tulio Valente | [📄 Ver Resenha](./resenhas/Artigo%202.pdf) |
 | **Big Ball of Mud** | Brian Foote & Joseph Yoder | [📄 Ver Resenha](./resenhas/Artigo%203.pdf) |
 | **Criteria for Modularization (Information Hiding)** | David L. Parnas | [📄 Ver Resenha](./resenhas/Artigo%204.pdf) |
+| **Design Patterns: Facade** | Refactoring Guru | [📄 Ver Resenha](./resenhas/Artigo%205.pdf) |
 ---
