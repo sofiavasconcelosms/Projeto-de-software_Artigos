@@ -12,4 +12,5 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | **Big Ball of Mud** | Brian Foote & Joseph Yoder | [📄 Ver Resenha](./resenhas/Artigo%203.pdf) |
 | **Criteria for Modularization (Information Hiding)** | David L. Parnas | [📄 Ver Resenha](./resenhas/Artigo%204.pdf) |
 | **Design Patterns: Facade** | Refactoring Guru | [📄 Ver Resenha](./resenhas/Artigo%205.pdf) |
+| **Model Context Protocol (MCP)** | Xinyi Hou et al. | [📄 Ver Resenha](./resenhas/Artigo%206.pdf) |
 ---
