@@ -13,4 +13,5 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | **Criteria for Modularization (Information Hiding)** | David L. Parnas | [📄 Ver Resenha](./resenhas/Artigo%204.pdf) |
 | **Design Patterns: Facade** | Refactoring Guru | [📄 Ver Resenha](./resenhas/Artigo%205.pdf) |
 | **Model Context Protocol (MCP)** | Xinyi Hou et al. | [📄 Ver Resenha](./resenhas/Artigo%206.pdf) |
+| **Software Architecture: A Roadmap** | Gorton, I. et al. | [📄 Ver Resenha](./resenhas/Artigo%207.pdf) |
 ---
