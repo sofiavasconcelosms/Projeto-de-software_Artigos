@@ -14,4 +14,5 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | **Design Patterns: Facade** | Refactoring Guru | [📄 Ver Resenha](./resenhas/Artigo%205.pdf) |
 | **Model Context Protocol (MCP)** | Xinyi Hou et al. | [📄 Ver Resenha](./resenhas/Artigo%206.pdf) |
 | **Software Architecture: A Roadmap** | Gorton, I. et al. | [📄 Ver Resenha](./resenhas/Artigo%207.pdf) |
+| **Hexagonal Architecture** | Alistair Cockburn | [📄 Ver Resenha](./resenhas/Artigo%208.pdf) |
 ---
