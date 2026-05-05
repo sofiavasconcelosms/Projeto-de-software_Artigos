@@ -15,4 +15,5 @@ Abaixo estão os artigos analisados durante o semestre. Cada link leva à resenh
 | **Model Context Protocol (MCP)** | Xinyi Hou et al. | [📄 Ver Resenha](./resenhas/Artigo%206.pdf) |
 | **Software Architecture: A Roadmap** | Gorton, I. et al. | [📄 Ver Resenha](./resenhas/Artigo%207.pdf) |
 | **Hexagonal Architecture** | Alistair Cockburn | [📄 Ver Resenha](./resenhas/Artigo%208.pdf) |
+| **Object Constraint Language (OCL)** | Jordi Cabot & Martin Gogolla | [📄 Ver Resenha](./resenhas/Artigo%209.pdf) |
 ---
